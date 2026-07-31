@@ -16,20 +16,17 @@ Drei Parameter können am Anfang des Skripts bestimmt werden:
 
 
 # 0) Voraussetzung: 
-
     ImageMagick ist installiert (https://imagemagick.org/). 
     Das Tool wird hier verwendet.
     (Installation mit Homebrew: brew install imagemagick)
 
 
 # 1) Terminal: Dem Skript Ausführungsberechtigung erteilen
-
     Per "cd" ins Directory mit dem Skript gehen und:
     chmod +x Bilder__sRGB_flaechig-skalieren_JPG [ENTER]
 
 
 # 2) Das Skript (im Directory, in welchem es liegt) ausführen:
-
     ./Bilder__sRGB_flaechig-skalieren_JPG [ENTER]
 
     Ein Dialog erscheint, in dem der Bilderordner ausgewählt werden kann.
